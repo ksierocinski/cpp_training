@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 /*****************************************************************************
  * std::vector<T,Allocator>::front
