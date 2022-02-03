@@ -4,6 +4,8 @@
 /*****************************************************************************
  * std::vector<T,Allocator>::capacity
  * 
+ * One by one ddd 33 elements to the vector. Each time check vector size and
+ * capacity.
  * 
  ****************************************************************************/ 
 
