@@ -1,15 +1,16 @@
 #include <iostream>
-#include <vector>
+#include <map>
 
 /*****************************************************************************
- * std::vector<T,Allocator>::data
+ * std::map<Key, T>::at
  * 
- * Write and test a function that casts vector to C array.
+ * Write and test the function that prints whole map.
  * 
+ * Try to use [] operator. Why did it failed?
  ****************************************************************************/ 
 
-template<class T>
-T* cast_to_C_array(std::vector<T> v)
+template<class Key, class T>
+void print_fisrt_and_last(const std::map<Key, T>& v)
 {
 
 }

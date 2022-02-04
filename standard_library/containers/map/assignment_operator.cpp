@@ -1,18 +1,13 @@
 #include <iostream>
-#include <vector>
+#include <map>
+#include <unordered_map>
 
 /*****************************************************************************
- * std::vector<T,Allocator>::data
+ * std::map<Key,T>::operator=
+ * std::unordered_map<Key, T>::operator=
  * 
- * Write and test a function that casts vector to C array.
  * 
  ****************************************************************************/ 
-
-template<class T>
-T* cast_to_C_array(std::vector<T> v)
-{
-
-}
 
 int main() {
     return 0;
