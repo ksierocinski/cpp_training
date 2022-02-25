@@ -4,7 +4,9 @@
 /*****************************************************************************
  * std::vector<T,Allocator>::back
  * 
- * 
+ * Create vector, initialize it with some values, and print last element of this container
+ *
+ *
  ****************************************************************************/ 
 
 int main() {
