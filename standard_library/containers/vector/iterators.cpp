@@ -11,7 +11,7 @@
  * std::vector<T,Allocator>::rend
  * std::vector<T,Allocator>::crend
  * 
- * 
+ * Create vector and initialize it with some values. Print values each returned (from member functions above) iterator is pointing at.
  ****************************************************************************/ 
 
 int main() {
